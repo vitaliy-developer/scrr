@@ -14,3 +14,4 @@ When secrets are changed, the reloader restarts our pods.
 8. minikube service web --url // URL for your sample application
 
 We will receive a static web page. After changing the secrets, the reloader will reload our pods.
+![alt text](https://github.com/vitaliy-developer/scrr/blob/main/image.png)
