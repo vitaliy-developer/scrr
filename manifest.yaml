@@ -26,7 +26,7 @@ spec:
         app: web
     spec:
       containers:
-      - image: docker.io/vitaliy1303/web-site:latest
+      - image: docker.io/vitaliy1303/web-app-static:latest
         imagePullPolicy: IfNotPresent
         name: hello-app
         resources: {}
